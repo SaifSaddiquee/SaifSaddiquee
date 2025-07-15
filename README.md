@@ -18,7 +18,7 @@
 
 ## Use To Code
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=,js,ts,nodejs,nestjs,aws,netlify,git,github,postman,npm,yarn,notion,stackoverflow,vscode,mongodb,stripe,cloudflare,swagger&perline=11" />
+  <img src="https://skillicons.dev/icons?i=,js,ts,nodejs,nestjs,aws,netlify,git,github,postman,npm,yarn,notion,stackoverflow,vscode,mongodb,cloudflare&perline=11" />
 </p>
 
 <hr/>
@@ -35,8 +35,8 @@
 
 <p align="center" >
   <img alt="Saif's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=SaifSaddiquee&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="180em">
-  <img alt="Saif's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=SaifSaddiquee&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="180em">
-</p>
+<!--   <img alt="Saif's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=SaifSaddiquee&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="180em">
+</p> -->
 </a>  
 
 
